@@ -1,0 +1,15 @@
+
+/* TO RUN THE EXECUTABLE CODE */
+
+1) Firstly download and install the openCV library to facilitate the access of audio and video capture devices 
+   of the computer by the application.
+
+2) Check the system for working webcam and microphones.
+
+3) Now simply run the code i.e main.java file present in the code on two different PC's and connect them
+   to each other by entering their ip address in the respective field.
+
+4) The audio or video chat session will immediately start after the pressing of enter button by the user and 
+  the call can be disconnected directly by clicking on the close button of the window.
+
+5) Remember Client 1 must be connected first to the server to establish the call. 
